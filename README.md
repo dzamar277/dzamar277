@@ -1,11 +1,11 @@
 # Lab7Web
 PHP Dasar
 
-Nama : DESIANA EKA SAFITRI
+Nama : Dzamar nawaf fatih firdaus
 
-Kelas : TI.19.B1
+Kelas : TI.20.A2
 
-NIM : 311910817
+NIM : 312010477
 
 Dosen : Agung Nugroho,S.Kom.,M.
 
